@@ -5,3 +5,8 @@ Monitors temperature and emulates a RG32A/E wall mount air conditioner remote co
 <p align="center">
   <img src="/img/remote.PNG" width="700"/>
 </p>
+
+## Wiring
+<p align="center">
+  <img src="/img/wiring.PNG" width="700"/>
+</p>
